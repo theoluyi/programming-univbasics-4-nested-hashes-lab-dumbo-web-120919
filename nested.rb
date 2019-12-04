@@ -86,7 +86,7 @@ programmer_hash[:yukihiro_matsumoto] = {:known_for => {}, :languages => {}}
 programmer_hash[:yukihiro_matsumoto][:known_for]= "Ruby" 
 programmer_hash[:yukihiro_matsumoto][:languages]= []
 programmer_hash[:yukihiro_matsumoto][:languages][0] = "LISP"
-"LISP", "C"
+programmer_hash[:yukihiro_matsumoto][:languages][1] = "C"
 end
 
 def changing_alan
